@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 1, 2017, 6:18:57 PM
+    Author     : Mark Rustad
+*/
+
+#red{
+    color: blue;
+}
+
+#transportImages button{
+    width: 80px;
+}
+
+#transportImages h4{
+    text-align: center;
+}
+
+#transportImages #buttongrp{
+    position: relative;
+    left: 30px;
+}
+
+#transportImages img{
+    max-width: 100%;
+    max-height: 300px;
+    margin-top: 20px;
+}

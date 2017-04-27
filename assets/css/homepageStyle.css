@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 28, 2017, 12:45:20 AM
+    Author     : Mark Rustad
+*/
+
+.homepage #header-wrapper{
+    background-size: cover;
+    background-image:url("images/nicePhoto.jpg");
+    background-repeat: no-repeat;
+}
+
+#hero h2{
+    font-size: 100px;
+    font-weight: 600;
+}
+
+#imageShowDiv img{
+    max-width: 100%;
+    max-height: 300px;
+    margin-top: 20px;
+}
+
+#imageShowDiv{
+    display: block;
+}
+
+#imageShowDiv h3{
+    text-align: center;
+}
+
+#moreDiv{
+    display: none;
+    text-align: left;
+}
